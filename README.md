@@ -1,6 +1,7 @@
 # Lizard
 
-TODO: Write a gem description
+Code documented [here]
+(http://pregnantfist.tumblr.com/post/43593680252/ruby-to-the-rescue-making-perl-just-a-little-bit)
 
 ## Installation
 
@@ -18,7 +19,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Read [this]
+(http://pregnantfist.tumblr.com/post/43593680252/ruby-to-the-rescue-making-perl-just-a-little-bit)
 
 ## Contributing
 
